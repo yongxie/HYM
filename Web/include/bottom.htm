@@ -1,0 +1,49 @@
+<html>
+<head>
+    <title>Untitled Document</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <link href="../css/normal.css" rel="stylesheet" type="text/css" />
+</head>
+<body onload="startclock()">
+    <form name="clock" action="">
+    <script language="JavaScript" type="">
+        var timerID = null;
+        var timerRunning = false;
+        function stopclock() {
+            if (timerRunning)
+                clearTimeout(timerID);
+            timerRunning = false;
+        }
+        function startclock() {
+            stopclock();
+            showtime();
+        }
+        function showtime() {
+            var now = new Date();
+            var hours = now.getHours();
+            var minutes = now.getMinutes();
+            var seconds = now.getSeconds()
+            var timeValue = (now.getMonth() + 1) + "月" + now.getDate() + "日" + ((hours >= 12) ? " 下午 " : " 上午 ")
+            timeValue += ((hours > 12) ? hours - 12 : hours)
+            timeValue += ((minutes < 10) ? ":0" : ":") + minutes
+            timeValue += ((seconds < 10) ? ":0" : ":") + seconds
+            document.clock.thetime.value = timeValue;
+            timerID = setTimeout("showtime()", 1000);
+            timerRunning = true;
+        }
+    </script>
+    <table width="100%" border="0" cellspacing="0" cellpadding="5" id="Table1">
+        <tr>
+            <td height="20" background="../images/index/botbg.gif">
+                <!--<img src="../images/index/copyrightbar.gif" height="24" style="width: 100%">-->
+                <div style="height: 24; text-align: right; width: 100%">
+                    技术支持：<a href="http://BBS.heirui.cn/" target="_blank">黑-锐-源-码-社-区</a>&nbsp;&nbsp;&nbsp; 
+                    当前时间：&nbsp;<input name="thetime" style="font-size: 9pt; background-color: #F0F0F0; border: 0px solid #FFFFFF;"
+                        size="20" /> 
+                </div>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[Web.csproj]
+SCC_Aux_Path = "\\XCSERVER\VssDatabase"
+SCC_Project_Name = "$/研发部/软件项目/爱之家会员管理系统/项目源码/Code/HYM/Web", MVKAAAAA

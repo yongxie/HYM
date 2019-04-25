@@ -1,0 +1,60 @@
+D:\ERP项目\Fortune\2010.8.3\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP项目\Fortune\2010.8.3\DBUtil\bin\Debug\DBUtil.dll
+D:\ERP项目\Fortune\2010.8.3\DBUtil\bin\Debug\DBUtil.pdb
+D:\ERP项目\Fortune\2010.8.3\DBUtil\obj\Debug\DBUtil.dll
+D:\ERP项目\Fortune\2010.8.3\DBUtil\obj\Debug\DBUtil.pdb
+D:\ERP项目\Fortune\DBUtil\bin\Debug\DBUtil.dll
+D:\ERP项目\Fortune\DBUtil\bin\Debug\DBUtil.pdb
+D:\ERP项目\Fortune\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP项目\Fortune\DBUtil\obj\Debug\DBUtil.dll
+D:\ERP项目\Fortune\DBUtil\obj\Debug\DBUtil.pdb
+D:\ERP项目\Fortune\项目代码\DBUtil\bin\Debug\DBUtil.dll
+D:\ERP项目\Fortune\项目代码\DBUtil\bin\Debug\DBUtil.pdb
+D:\ERP项目\Fortune\项目代码\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP项目\Fortune\项目代码\DBUtil\obj\Debug\DBUtil.dll
+D:\ERP项目\Fortune\项目代码\DBUtil\obj\Debug\DBUtil.pdb
+D:\工作文件\Fortune\项目代码\DBUtil\bin\Debug\DBUtil.dll
+D:\工作文件\Fortune\项目代码\DBUtil\bin\Debug\DBUtil.pdb
+D:\工作文件\Fortune\项目代码\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\工作文件\Fortune\项目代码\DBUtil\obj\Debug\DBUtil.dll
+D:\工作文件\Fortune\项目代码\DBUtil\obj\Debug\DBUtil.pdb
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\DBUtil\bin\Debug\DBUtil.dll
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\DBUtil\bin\Debug\DBUtil.pdb
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\DBUtil\obj\Debug\DBUtil.dll
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\DBUtil\obj\Debug\DBUtil.pdb
+F:\项目\HYM\DBUtil\bin\Debug\DBUtil.dll
+F:\项目\HYM\DBUtil\bin\Debug\DBUtil.pdb
+F:\项目\HYM\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\HYM\DBUtil\obj\Debug\DBUtil.dll
+F:\项目\HYM\DBUtil\obj\Debug\DBUtil.pdb
+F:\工作文件\会员管理系统项目\HYManager\HYM\DBUtil\bin\Debug\DBUtil.dll
+F:\工作文件\会员管理系统项目\HYManager\HYM\DBUtil\bin\Debug\DBUtil.pdb
+F:\工作文件\会员管理系统项目\HYManager\HYM\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+F:\工作文件\会员管理系统项目\HYManager\HYM\DBUtil\obj\Debug\DBUtil.dll
+F:\工作文件\会员管理系统项目\HYManager\HYM\DBUtil\obj\Debug\DBUtil.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\DBUtil\bin\Debug\DBUtil.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\DBUtil\bin\Debug\DBUtil.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\DBUtil\obj\Debug\DBUtil.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\DBUtil\obj\Debug\DBUtil.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\DBUtil\bin\Debug\DBUtil.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\DBUtil\bin\Debug\DBUtil.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\DBUtil\obj\Debug\DBUtil.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\DBUtil\obj\Debug\DBUtil.pdb
+C:\Documents and Settings\Administrator\桌面\HYM\DBUtil\bin\Debug\DBUtil.dll
+C:\Documents and Settings\Administrator\桌面\HYM\DBUtil\bin\Debug\DBUtil.pdb
+C:\Documents and Settings\Administrator\桌面\HYM\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\HYM\DBUtil\obj\Debug\DBUtil.dll
+C:\Documents and Settings\Administrator\桌面\HYM\DBUtil\obj\Debug\DBUtil.pdb
+E:\会员系统\会员管理源码\HYM\DBUtil\bin\Debug\DBUtil.dll
+E:\会员系统\会员管理源码\HYM\DBUtil\bin\Debug\DBUtil.pdb
+E:\会员系统\会员管理源码\HYM\DBUtil\obj\Debug\ResolveAssemblyReference.cache
+E:\会员系统\会员管理源码\HYM\DBUtil\obj\Debug\DBUtil.dll
+E:\会员系统\会员管理源码\HYM\DBUtil\obj\Debug\DBUtil.pdb
+D:\新建文件夹\HYM\DBUtil\bin\Debug\DBUtil.dll
+D:\新建文件夹\HYM\DBUtil\bin\Debug\DBUtil.pdb
+D:\新建文件夹\HYM\DBUtil\obj\Debug\DBUtil.csprojResolveAssemblyReference.cache
+D:\新建文件夹\HYM\DBUtil\obj\Debug\DBUtil.dll
+D:\新建文件夹\HYM\DBUtil\obj\Debug\DBUtil.pdb

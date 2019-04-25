@@ -1,0 +1,149 @@
+/*定义左侧包涵“树” 的帧之背景 */
+.bgtree {  background-color: #EFEFEF; border-color: black #999999 black black; width: 180px; vertical-align: top; padding-top: 3px; padding-right: 0px; padding-bottom: 3px; padding-left: 3px; border-style: solid; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 0px}
+/*定义左侧包涵“树” 的帧的边或容器的边*/
+.treeborder { border: inset; border-color: #000000 #999999 #999999 #000000; border-width: 0px 1px 1px}
+
+/*定义右侧帧之背景 */
+BODY {
+	BACKGROUND-COLOR: #f9f9f9; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px; margin:0px;
+}
+
+/*定义form中一些元素的风格，这个是通用的，有form都被这样定义了*/
+form {  margin-top: 1px; margin-right: 0px; margin-bottom: 1px; margin-left: 0px; padding-top: 2px; padding-right: 0px; padding-bottom: 2px; padding-left: 0px}    
+         /*下拉框的样式 ，可使用id="select" 来定义*/
+select { font-size: 12px; height: 20px; margin-top: 2px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 2px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-color: #707070 #D3D3D3 #D3D3D3 #707070; text-indent: 4pt; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+      /*文本框，多行文本框, file域 可以使用 id="text" 来定义*/
+.text  { font-size: 12px; height: 20px; margin-top: 2px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 2px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-color: #707070 #D3D3D3 #D3D3D3 #707070; text-indent: 4pt; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+
+/*通用linkage的风格*/
+a:link
+{color: #000000;text-decoration: none;}
+a:hover
+{color: #666666;text-decoration: underline;}
+a
+{
+	font-size: 12px;
+	vertical-align: text-bottom;
+	color: #000000;
+	font-family: 宋体;
+	text-decoration: none;
+}
+
+
+/*让某个容器有边，同时关联 linkage的风格，可能没用*/
+.frame { border: 1px #3399CC outset; line-height: 12px; margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; vertical-align: bottom; font-size: 12px}
+.frame a { color: #000000 ; text-decoration: none}
+.frame a:hover { color: #ffffff; background-color: #000000}
+.frame a:link { color: #000000}
+
+
+/*-----------------------------------------------*/
+/*非显示表格样式，用于固定其它表格或按钮位置*/
+.layoutTable {background-color: #F9F9F9 ;border-width:  0px;margin: 0px 0px 0px 0px; padding:0px 0px 0px 0px}
+.layoutTable tr {border-width:  0px;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+.layoutTable td {border-width:  0px;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;line-height: 22px}
+
+/*定义为table——字体大小、和背景色*/
+.tableclass { FONT-SIZE: 12px}
+
+/*定义为table——字体大小、和背景色*/
+.tableclass1 {
+	BACKGROUND-COLOR: #F7F7F7; BORDER-BOTTOM: #003300 1px solid; BORDER-LEFT: #003300 1px solid; BORDER-RIGHT: #003300 1px solid; FONT-SIZE: 12px;
+    height: 33px;
+    margin-bottom: 0px;
+}
+
+/*顶部当前位置栏table样式*/
+.page_place {
+	background-color:#D5DDC7;
+	height:21px;
+	color:#003300;
+	background-image: url(../images/page/desktop_placebg.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+/*表内*/
+.table_top {
+height:6px;background-image:url(../images/page/table_top.gif);background-repeat:repeat-x;
+}
+.table_bot {height:6px;	background-image:url(../images/page/table_bot.gif);	background-repeat:repeat-x;	background-position: bottom;}
+
+
+/*定义为表格单元格中有文本显示的TD样式——字体大小、颜色和背景色*/
+.tdh {text-align:right;font-size:12px; line-height: 22px;}  
+/*#d4d0c8  d6e7ff font-weight:bold;*/
+/*定义默认的TD样式*/
+td{font-size: 12px;}
+/*定义为标题*/
+.title {  font-size: 12px; line-height: 28px; text-align:center; background-color:white;border-top:1px solid #003300;border-bottom:1px solid #003300; font-weight:bold;letter-spacing:12px}
+/*定义为头标题*/
+.title1 {font-size:14px;font-weight:bold;color:#003300;padding-left:12px;padding-right:12px;text-align:center;background-image:url(../images/page/table_tit_bg.gif);width:1%;padding-top:1px;}
+/*定义为可输入之输入框——底线为黑色实线,且文本内容靠左*/
+.TBL {
+	BORDER-BOTTOM: #636563 1px solid; BORDER-LEFT: black 0px solid; BORDER-RIGHT: black 0px solid; BORDER-TOP: black 0px solid; FONT-FAMILY: "宋体"; FONT-SIZE: 12px; HEIGHT: 17px;background-color:transparent;
+}
+/*定义为不可输入之输入框——底线为黑色虚线，且文本内容靠左*/
+.TBROL {  font-family: "宋体"; font-size: 12px; height: 17px; border: dashed; border-width: 0px 0px 1px; border-color: black black #000000}
+/*定义为可输入之输入框——底线为黑色实线,且文本内容靠右*/
+.TBR { BORDER-BOTTOM: #636563 1px solid; BORDER-LEFT: black 0px solid; BORDER-RIGHT: black 0px solid; BORDER-TOP: black 0px solid; FONT-FAMILY: "宋体"; FONT-SIZE: 12px; HEIGHT: 17px;background-color:transparent; text-align:right}
+/*定义为不可输入之输入框——底线为黑色虚线，且文本内容靠右*/
+.TBROR {font-family: "宋体"; font-size: 12px; height: 17px; border: dashed; border-width: 0px 0px 1px; border-color: black black #000000; text-align:right}
+
+
+/*定义为列表用可输入之输入框——底线为黑色实线,且文本内容靠左*/
+.LIST_TBL { font-size: 12px;font-family: 宋体;border-right: #000000 1px solid;	border-top: #000000 1px solid;	border-left: #000000 1px solid;border-bottom: #000000 1px solid;}
+/*定义为列表用不可输入之输入框——底线为黑色虚线，且文本内容靠左*/
+.LIST_TBROL { font-size: 12px;font-family: 宋体;border-right: #000000 1px dashed;	border-top: #000000 1px dashed;	border-left: #000000 1px dashed;border-bottom: #000000 1px dashed;}
+/*定义为列表用可输入之输入框——底线为黑色实线,且文本内容靠右*/
+.LIST_TBR { font-size: 12px;font-family: 宋体;border-right: #000000 1px solid;	border-top: #000000 1px solid;	border-left: #000000 1px solid;border-bottom: #000000 1px solid; text-align:right}
+/*定义为列表用不可输入之输入框——底线为黑色虚线，且文本内容靠右*/
+.LIST_TBROR {font-size: 12px;font-family: 宋体;border-right: #000000 1px dashed;	border-top: #000000 1px dashed;	border-left: #000000 1px dashed;border-bottom: #000000 1px dashed; text-align:right}
+
+
+/*定义为大型表格标题TR*/
+.BigTable_Title_TD {font-size: 12px; line-height: 22px;background-color :abcafc;text-align:center}
+
+
+/*定义为字体——大小12px、14px、16px*/
+.p12 {font-size: 12px; line-height: 18px}
+.p14 {font-size: 14px; line-height: 20px}
+.p16 {font-size: 16px; line-height: 22px}
+
+/*定义为带滚动条输入框——字体大小和边框*/
+TEXTAREA {
+	BORDER-BOTTOM:#636563 1px solid; BORDER-LEFT:#636563 1px solid; BORDER-RIGHT:#636563 1px solid; BORDER-TOP:#636563 1px solid; FONT-SIZE: 12px
+}
+
+/*定义为按钮——字体大小、按钮大小、指标和背景画切换，有点击事件响应*/
+.button
+{
+	border-style: none;
+    BEHAVIOR: url(../../css/button.htc); CURSOR: hand; FONT-SIZE: 12px; padding-top:3px
+}
+/*定义为按钮——字体大小、按钮大小、指标和背景画切换，无点击事件响应*/
+.button1
+{
+	BEHAVIOR: url(../../css/button1.htc); BORDER-BOTTOM-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; CURSOR: hand; FONT-SIZE: 12px; HEIGHT: 20px; WIDTH: 76px;padding-top:3px
+}
+
+.item 
+{
+	BEHAVIOR: url(../../css/item.htc); color:#333333;background-color:transparent;
+}
+
+/*临时样式*/
+.tdimages
+{border-bottom:1px solid #003300;}
+
+/*分页显示表样式*/
+.tableclass2 {
+	BACKGROUND-COLOR: #F8FAEC; BORDER-BOTTOM: #330000 1px solid; BORDER-LEFT: #330000 1px solid; BORDER-RIGHT: #330000 1px solid; FONT-SIZE: 12px
+}
+.table_top2 {height:6px;background-image:url(../images/page/table_top2.gif);background-repeat:repeat-x;}
+.table_bot2 {height:6px;	background-image:url(../images/page/table_bot2.gif);	background-repeat:repeat-x;	background-position: bottom;}
+.title2 {
+font-size:14px;font-weight:bold;color:#663300;padding-left:12px;padding-right:12px;text-align:center;background-image:url(../images/page/table_tit_bg2.gif);width:1%;padding-top:1px;
+}
+.table_linebot {border-bottom:1px solid #999999}
+
+br {line-height:30%}

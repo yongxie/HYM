@@ -1,0 +1,92 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Web._Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>爱之家会员管理系统</title>
+</head>
+<body bgcolor="#FFFFFF" background = "images/login/loginbg.gif" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
+    <form id="form1" runat="server">
+    <div>
+    	<table width="778" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+					<td width="794" height="72">&nbsp;</td>
+				</tr>
+                <tr>
+                <td height="208" style="background-image:url(images/login/bg.jpg);background-repeat:no-repeat;">
+
+                </td>
+                </tr>
+                <tr>
+                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+                            <td width="11"><img src="images/login/a.gif" width="11" height="52"></td>
+								<td align="right" background="images/login/bg2.gif">
+                            <table width="55%" border="0" cellpadding="0" cellspacing="0">
+			                    <tr>
+				                    <td width="1">&nbsp;</td>
+				                    <td width="50" align="right" nowrap class="cssfont1">用户名：</td>
+				                    <td width="73" nowrap>
+					                    <asp:TextBox id="txtUserName" 
+                                            style="border:1px solid black;background-color:white; margin-left: 0px;" 
+                                            runat="server" MaxLength="20" Height="22px" Width="95px" 
+                                            AutoCompleteType="Disabled" autocomplete="off"></asp:TextBox></td>
+				                    <td width="70" align="right" AutoCompleteType="Disabled"  nowrap class="cssfont1">密码：</td>
+				                    <td width="73" nowrap>
+					                    <asp:TextBox id="txtPwd" 
+                                            style="height:22px;width:83px;border:1px solid black;background-color:white; margin-left: 0px;" 
+                                            runat="server" TextMode="Password" AutoCompleteType="Disabled"></asp:TextBox></td>
+				                    <td width="88" nowrap>
+					                    <asp:ImageButton id="btnLogin" runat="server" ImageUrl="images/login/sub.gif" 
+                                            width="70" height="52" border="0" onclick="btn_Logon_Click"></asp:ImageButton></td>
+			                    </tr>
+		                    </table>
+                            </tr>
+                            </table>
+
+
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+                            <td width="11"><width="11" height="52"></td>
+								<td align="right">
+                            <table width="55%" border="0" cellpadding="0" cellspacing="0">
+			                    <tr>
+				                    <td width="1">&nbsp;</td>
+				                    <td width="40" align="right" nowrap class="cssfont1"></td>
+				                   
+				                    <td width="88" nowrap>
+					                    &nbsp;</td>
+			                    </tr>
+		                    </table>
+                                                      
+                             <table width="100%" border="0" cellpadding="0" cellspacing="0">
+			                    <tr>
+				                    <td width="128" align="right" nowrap class="cssfont1">*请用IE7、IE8或者IE9运行本系统</td>
+				                   
+		
+			                    </tr>
+		                    </table>
+
+
+
+                            </tr>
+                            </table>
+
+
+                            </td>
+                  </tr>
+
+           </table>
+    </div>
+    </form>
+</body>
+</html>
+<script type="text/javascript" defer="defer">
+    window.onload = function () {
+        document.getElementById("txtUserName").value = "";
+        document.getElementById("txtPwd").value = "";
+        var a = document.getElementById("txtPwd").value;
+        //alert(a);
+    }
+</script>

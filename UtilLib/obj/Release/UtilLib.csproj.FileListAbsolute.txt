@@ -1,0 +1,14 @@
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\bin\Release\UtilLib.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\bin\Release\UtilLib.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\bin\Release\DBUtil.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\bin\Release\DBUtil.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\obj\Release\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\obj\Release\UtilLib.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\obj\Release\UtilLib.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Release\UtilLib.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Release\UtilLib.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Release\DBUtil.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Release\DBUtil.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\obj\Release\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\obj\Release\UtilLib.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\obj\Release\UtilLib.pdb

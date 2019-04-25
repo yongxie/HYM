@@ -1,0 +1,50 @@
+F:\工作文件\会员管理系统项目\HYM\SmsSender\SMSAgent\obj\Debug\ResolveAssemblyReference.cache
+F:\工作文件\会员管理系统项目\HYM\SmsSender\SMSAgent\bin\Debug\SMSAgent.dll
+F:\工作文件\会员管理系统项目\HYM\SmsSender\SMSAgent\bin\Debug\SMSAgent.pdb
+F:\工作文件\会员管理系统项目\HYM\SmsSender\SMSAgent\obj\Debug\SMSAgent.dll
+F:\工作文件\会员管理系统项目\HYM\SmsSender\SMSAgent\obj\Debug\SMSAgent.pdb
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\SmsSender\SMSAgent\obj\Debug\ResolveAssemblyReference.cache
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\SmsSender\SMSAgent\obj\Debug\SMSAgent.dll
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\SmsSender\SMSAgent\bin\Debug\SMSAgent.dll
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\SmsSender\SMSAgent\bin\Debug\SMSAgent.pdb
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\SmsSender\SMSAgent\obj\Debug\SMSAgent.pdb
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\SmsSender\SMSAgent\bin\Debug\SMSAgent.dll
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\SmsSender\SMSAgent\bin\Debug\SMSAgent.pdb
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\SmsSender\SMSAgent\obj\Debug\ResolveAssemblyReference.cache
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\SmsSender\SMSAgent\obj\Debug\SMSAgent.dll
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\SmsSender\SMSAgent\obj\Debug\SMSAgent.pdb
+F:\工作文件\会员管理系统项目\HYManager\HYM\SMSAgent\bin\Debug\SMSAgent.dll
+F:\工作文件\会员管理系统项目\HYManager\HYM\SMSAgent\bin\Debug\SMSAgent.pdb
+F:\工作文件\会员管理系统项目\HYManager\HYM\SMSAgent\obj\Debug\ResolveAssemblyReference.cache
+F:\工作文件\会员管理系统项目\HYManager\HYM\SMSAgent\obj\Debug\SMSAgent.dll
+F:\工作文件\会员管理系统项目\HYManager\HYM\SMSAgent\obj\Debug\SMSAgent.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\bin\Debug\SMSAgent.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\bin\Debug\SMSAgent.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\obj\Debug\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\obj\Debug\SMSAgent.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\obj\Debug\SMSAgent.pdb
+F:\项目\HYM\SMSAgent\bin\Debug\SMSAgent.dll
+F:\项目\HYM\SMSAgent\bin\Debug\SMSAgent.pdb
+F:\项目\HYM\SMSAgent\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\HYM\SMSAgent\obj\Debug\SMSAgent.dll
+F:\项目\HYM\SMSAgent\obj\Debug\SMSAgent.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\bin\Debug\SMSAgent.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\bin\Debug\SMSAgent.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\obj\Debug\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\obj\Debug\SMSAgent.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\obj\Debug\SMSAgent.pdb
+C:\Documents and Settings\Administrator\桌面\HYM\SMSAgent\bin\Debug\SMSAgent.dll
+C:\Documents and Settings\Administrator\桌面\HYM\SMSAgent\bin\Debug\SMSAgent.pdb
+C:\Documents and Settings\Administrator\桌面\HYM\SMSAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\HYM\SMSAgent\obj\Debug\SMSAgent.dll
+C:\Documents and Settings\Administrator\桌面\HYM\SMSAgent\obj\Debug\SMSAgent.pdb
+E:\会员系统\会员管理源码\HYM\SMSAgent\bin\Debug\SMSAgent.dll
+E:\会员系统\会员管理源码\HYM\SMSAgent\bin\Debug\SMSAgent.pdb
+E:\会员系统\会员管理源码\HYM\SMSAgent\obj\Debug\ResolveAssemblyReference.cache
+E:\会员系统\会员管理源码\HYM\SMSAgent\obj\Debug\SMSAgent.dll
+E:\会员系统\会员管理源码\HYM\SMSAgent\obj\Debug\SMSAgent.pdb
+D:\新建文件夹\HYM\SMSAgent\bin\Debug\SMSAgent.dll
+D:\新建文件夹\HYM\SMSAgent\bin\Debug\SMSAgent.pdb
+D:\新建文件夹\HYM\SMSAgent\obj\Debug\SMSAgent.csprojResolveAssemblyReference.cache
+D:\新建文件夹\HYM\SMSAgent\obj\Debug\SMSAgent.dll
+D:\新建文件夹\HYM\SMSAgent\obj\Debug\SMSAgent.pdb

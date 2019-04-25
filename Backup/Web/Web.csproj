@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E41B8731-16C9-4E62-9B17-1973CA93356F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Web</RootNamespace>
+    <AssemblyName>Web</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DesktopBuildPackageLocation>C:\Users\ZealFox\Desktop\Web.zip</DesktopBuildPackageLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Web.UI.WebControls">
+      <HintPath>.\Microsoft.Web.UI.WebControls.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\Default.css" />
+    <Content Include="css\jquery.ui.autocomplete.css" />
+    <Content Include="css\normal.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="images\images\botbg.gif" />
+    <Content Include="images\images\cjlr.gif" />
+    <Content Include="images\images\control.gif" />
+    <Content Include="images\images\dxpt.gif" />
+    <Content Include="images\images\hycx.gif" />
+    <Content Include="images\images\hycz.gif" />
+    <Content Include="images\images\hygl.gif" />
+    <Content Include="images\images\hylr.gif" />
+    <Content Include="images\images\hyxf.gif" />
+    <Content Include="images\images\ico_1.gif" />
+    <Content Include="images\images\logo_1.gif" />
+    <Content Include="images\images\spcx.gif" />
+    <Content Include="images\images\spgl.gif" />
+    <Content Include="images\images\titbar.gif" />
+    <Content Include="images\images\tjfx.gif" />
+    <Content Include="images\images\top_dot.gif" />
+    <Content Include="images\images\top_notice.gif" />
+    <Content Include="images\images\xfgl.gif" />
+    <Content Include="images\images\xtgn.gif" />
+    <Content Include="images\index\top_dot.gif" />
+    <Content Include="include\left_index.aspx" />
+    <Content Include="include\refresh.aspx" />
+    <Content Include="js\BaiduKuang.js" />
+    <Content Include="js\jquery\jquery-1.6.2.min.js" />
+    <Content Include="js\jquery\jquery.ui.autocomplete.js" />
+    <Content Include="js\jquery\jquery.ui.core.js" />
+    <Content Include="js\jquery\jquery.ui.position.js" />
+    <Content Include="js\jquery\jquery.ui.widget.js" />
+    <Content Include="main_system\program\detail.aspx" />
+    <Content Include="images\about\comlogo.gif" />
+    <Content Include="images\about\comlogo_bak.gif" />
+    <Content Include="images\about\logo.gif" />
+    <Content Include="images\about\logo_bak.gif" />
+    <Content Include="images\button\alltoleft.gif" />
+    <Content Include="images\button\alltoright.gif" />
+    <Content Include="images\button\bu-on.gif" />
+    <Content Include="images\button\bu-out.gif" />
+    <Content Include="images\button\CompletePay.gif" />
+    <Content Include="images\button\datetime.gif" />
+    <Content Include="images\button\NoPay.gif" />
+    <Content Include="images\button\ok.gif" />
+    <Content Include="images\button\Page1_ButtonOff.gif" />
+    <Content Include="images\button\Page1_ButtonOn.gif" />
+    <Content Include="images\button\Page2_ButtonOff.gif" />
+    <Content Include="images\button\Page2_ButtonOn.gif" />
+    <Content Include="images\button\Page3_ButtonOff.gif" />
+    <Content Include="images\button\Page3_ButtonOn.gif" />
+    <Content Include="images\button\Page4_ButtonOff.gif" />
+    <Content Include="images\button\Page4_ButtonOn.gif" />
+    <Content Include="images\button\Page5_ButtonOff.gif" />
+    <Content Include="images\button\Page5_ButtonOn.gif" />
+    <Content Include="images\button\pwd.gif" />
+    <Content Include="images\button\showcode.gif" />
+    <Content Include="images\button\sub.gif" />
+    <Content Include="images\button\toleft.gif" />
+    <Content Include="images\button\toright.gif" />
+    <Content Include="images\button\userright_alltoleft.gif" />
+    <Content Include="images\button\userright_alltoright.gif" />
+    <Content Include="images\button\userright_toleft.gif" />
+    <Content Include="images\button\userright_toright_1.gif" />
+    <Content Include="images\flash\app.swf" />
+    <Content Include="images\flash\help.swf" />
+    <Content Include="images\flash\wanke.swf" />
+    <Content Include="images\index\top_logo22.gif" />
+    <Content Include="images\login\cz.gif" />
+    <Content Include="images\login\cz.png" />
+    <Content Include="images\login\dl.gif" />
+    <Content Include="images\login\dl.png" />
+    <Content Include="images\login\login_03.gif" />
+    <Content Include="images\login\login_04.gif" />
+    <Content Include="images\login\login_04_bk.gif" />
+    <Content Include="images\login\login_06.gif" />
+    <Content Include="images\login\login_07.gif" />
+    <Content Include="images\login\login_08.gif" />
+    <Content Include="images\login\login_09.gif" />
+    <Content Include="images\login\login_09_bak.gif" />
+    <Content Include="images\index\botbg.gif" />
+    <Content Include="images\index\copyrightbar.gif" />
+    <Content Include="images\index\copyrightbar1.gif" />
+    <Content Include="images\index\help_bg.gif" />
+    <Content Include="images\index\login_21.gif" />
+    <Content Include="images\index\logout.gif" />
+    <Content Include="images\index\menu_bot.gif" />
+    <Content Include="images\index\menu_bot3.gif" />
+    <Content Include="images\index\menu_bot4.gif" />
+    <Content Include="images\index\menu_top.gif" />
+    <Content Include="images\index\minandclose.gif" />
+    <Content Include="images\index\titbar.gif" />
+    <Content Include="images\index\titbar_bg1.gif" />
+    <Content Include="images\index\titbar_bg2.gif" />
+    <Content Include="images\index\titbar_contact.gif" />
+    <Content Include="images\index\titbar_expand.gif" />
+    <Content Include="images\index\top_back.gif" />
+    <Content Include="images\index\top_banner.gif" />
+    <Content Include="images\index\top_bg.gif" />
+    <Content Include="images\index\top_botbg.gif" />
+    <Content Include="images\index\top_dot1.gif" />
+    <Content Include="images\index\top_help.gif" />
+    <Content Include="images\index\top_logo2.gif" />
+    <Content Include="images\index\top_notice.gif" />
+    <Content Include="images\index\top_pre.gif" />
+    <Content Include="images\index\top_refresh.gif" />
+    <Content Include="images\menu\control.gif" />
+    <Content Include="images\menu\dxpt.gif" />
+    <Content Include="images\menu\hygl.gif" />
+    <Content Include="images\menu\left_dot1.gif" />
+    <Content Include="images\menu\left_dot2.gif" />
+    <Content Include="images\menu\left_dot3.gif" />
+    <Content Include="images\menu\left_dot4.gif" />
+    <Content Include="images\menu\spgl.gif" />
+    <Content Include="images\menu\tjfx.gif" />
+    <Content Include="images\menu\xfgl.gif" />
+    <Content Include="images\menu\xtgn.gif" />
+    <Content Include="images\mydesk\desktop_bg1.gif" />
+    <Content Include="images\mydesk\desktop_bg2.jpg" />
+    <Content Include="images\mydesk\welcome.gif" />
+    <Content Include="images\page\desktop_placebg.gif" />
+    <Content Include="images\page\page_place.gif" />
+    <Content Include="images\page\table_bot.gif" />
+    <Content Include="images\page\table_bot2.gif" />
+    <Content Include="images\page\table_dot_l.gif" />
+    <Content Include="images\page\table_dot_r.gif" />
+    <Content Include="images\page\table_tit_bg.gif" />
+    <Content Include="images\page\table_tit_bg2.gif" />
+    <Content Include="images\page\table_tit_l.gif" />
+    <Content Include="images\page\table_tit_l2.gif" />
+    <Content Include="images\page\table_tit_r.gif" />
+    <Content Include="images\page\table_tit_r2.gif" />
+    <Content Include="images\page\table_top.gif" />
+    <Content Include="images\page\table_top2.gif" />
+    <Content Include="images\page\window2.gif" />
+    <Content Include="images\page\window3.gif" />
+    <Content Include="images\page\zhgl_dot.gif" />
+    <Content Include="images\son\chongzhi.gif" />
+    <Content Include="images\son\main_bg.jpg" />
+    <Content Include="images\son\main_line.jpg" />
+    <Content Include="images\son\shangpinchaxun.gif" />
+    <Content Include="images\son\shangpinluru.gif" />
+    <Content Include="images\son\vipchaxun.gif" />
+    <Content Include="images\son\vipluru.gif" />
+    <Content Include="images\son\xiaofei.gif" />
+    <Content Include="include\about.htm" />
+    <Content Include="include\blank.htm" />
+    <Content Include="include\bottom.htm" />
+    <Content Include="include\main.aspx" />
+    <Content Include="include\top.aspx" />
+    <Content Include="index.aspx" />
+    <Content Include="js\ListDiv.js" />
+    <Content Include="js\outlook-wygl.js" />
+    <Content Include="js\PressEnter.js" />
+    <Content Include="js\ShowDiv.js" />
+    <Content Include="js\time.htm" />
+    <Content Include="js\time.js" />
+    <Content Include="js\Time_Popup.js" />
+    <Content Include="main_goodsmanager\program\GoodsManager_Category_Add.aspx" />
+    <Content Include="main_goodsmanager\program\GoodsManager_Edit.aspx" />
+    <Content Include="main_goodsmanager\program\GoodsManager_Category_Index.aspx" />
+    <Content Include="main_goodsmanager\program\GoodsManager_View.aspx" />
+    <Content Include="main_goodsmanager\son_goodsmanager.aspx" />
+    <Content Include="main_membermanager\program\MemManager_AddLev.aspx" />
+    <Content Include="main_membermanager\program\MemManager_Level.aspx" />
+    <Content Include="main_paymanager\program\gouwu.aspx" />
+    <Content Include="main_paymanager\program\inputmoney.aspx" />
+    <Content Include="main_paymanager\son_paymanager.aspx" />
+    <Content Include="main_system\program\System_MemCardExpendRecord_View.aspx" />
+    <Content Include="main_system\program\System_News_Edit.aspx" />
+    <Content Include="main_system\program\System_News_View.aspx" />
+    <Content Include="main_system\program\System_QuestionFB_Edit.aspx" />
+    <Content Include="main_system\program\System_QuestionFB_Reply.aspx" />
+    <Content Include="main_system\program\System_QuestionFB_View.aspx" />
+    <Content Include="main_system\program\System_RecordOperate_View.aspx" />
+    <Content Include="main_system\program\System_SMSLog_View.aspx" />
+    <Content Include="main_system\program\System_SMSTemplate_Edit.aspx" />
+    <Content Include="main_system\program\System_SMSTemplate_View.aspx" />
+    <Content Include="main_system\program\System_SMS_GetLast.aspx" />
+    <Content Include="main_system\program\System_SMS_SendByNumber.aspx" />
+    <Content Include="main_system\program\System_SMS_SendBySystem.aspx" />
+    <Content Include="main_system\program\Sys_EditPassward.aspx" />
+    <Content Include="main_system\son_log.aspx" />
+    <Content Include="main_system\program\System_DataBackup_Backup.aspx" />
+    <Content Include="main_system\program\System_DataBackup_Restore.aspx" />
+    <Content Include="main_system\program\System_GroupAuthorization_Edit.aspx" />
+    <Content Include="main_system\program\System_GroupAuthorization_Index.aspx" />
+    <Content Include="main_system\program\System_UserAuthorization_Admin.aspx" />
+    <Content Include="main_system\program\System_UserAuthorization_Index.aspx" />
+    <Content Include="main_system\son_backup.aspx" />
+    <Content Include="main_system\son_sms.aspx" />
+    <Content Include="main_system\son_user.aspx" />
+    <Content Include="main_tongji\program\Tongji_AgentMonth_View.aspx" />
+    <Content Include="main_tongji\program\Tongji_MemMonth_View.aspx" />
+    <Content Include="main_tongji\program\Tongji_Mem_View.aspx" />
+    <Content Include="main_tongji\son_TongjiUser.aspx" />
+    <Content Include="main_membermanager\program\MemManager_Edit.aspx" />
+    <Content Include="main_membermanager\program\MemManager_View.aspx" />
+    <Content Include="main_membermanager\son_usermanager.aspx" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <None Include="Default.aspx.bak">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="Web.config2.bak">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx.bak</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="include\left_index.aspx.cs">
+      <DependentUpon>left_index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="include\left_index.aspx.designer.cs">
+      <DependentUpon>left_index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="include\refresh.aspx.cs">
+      <DependentUpon>refresh.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="include\refresh.aspx.designer.cs">
+      <DependentUpon>refresh.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\detail.aspx.cs">
+      <DependentUpon>detail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\detail.aspx.designer.cs">
+      <DependentUpon>detail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="include\main.aspx.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="include\main.aspx.designer.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="include\top.aspx.cs">
+      <DependentUpon>top.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="include\top.aspx.designer.cs">
+      <DependentUpon>top.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_goodsmanager\program\GoodsManager_Category_Add.aspx.cs">
+      <DependentUpon>GoodsManager_Category_Add.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_goodsmanager\program\GoodsManager_Category_Add.aspx.designer.cs">
+      <DependentUpon>GoodsManager_Category_Add.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_goodsmanager\program\GoodsManager_Edit.aspx.cs">
+      <DependentUpon>GoodsManager_Edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_goodsmanager\program\GoodsManager_Edit.aspx.designer.cs">
+      <DependentUpon>GoodsManager_Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_goodsmanager\program\GoodsManager_Category_Index.aspx.cs">
+      <DependentUpon>GoodsManager_Category_Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_goodsmanager\program\GoodsManager_Category_Index.aspx.designer.cs">
+      <DependentUpon>GoodsManager_Category_Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_goodsmanager\program\GoodsManager_View.aspx.cs">
+      <DependentUpon>GoodsManager_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_goodsmanager\program\GoodsManager_View.aspx.designer.cs">
+      <DependentUpon>GoodsManager_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_goodsmanager\son_goodsmanager.aspx.cs">
+      <DependentUpon>son_goodsmanager.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_goodsmanager\son_goodsmanager.aspx.designer.cs">
+      <DependentUpon>son_goodsmanager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_membermanager\program\MemManager_AddLev.aspx.cs">
+      <DependentUpon>MemManager_AddLev.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_membermanager\program\MemManager_AddLev.aspx.designer.cs">
+      <DependentUpon>MemManager_AddLev.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_membermanager\program\MemManager_Level.aspx.cs">
+      <DependentUpon>MemManager_Level.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_membermanager\program\MemManager_Level.aspx.designer.cs">
+      <DependentUpon>MemManager_Level.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_paymanager\program\gouwu.aspx.cs">
+      <DependentUpon>gouwu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_paymanager\program\gouwu.aspx.designer.cs">
+      <DependentUpon>gouwu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_paymanager\program\inputmoney.aspx.cs">
+      <DependentUpon>inputmoney.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_paymanager\program\inputmoney.aspx.designer.cs">
+      <DependentUpon>inputmoney.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_paymanager\son_paymanager.aspx.cs">
+      <DependentUpon>son_paymanager.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_paymanager\son_paymanager.aspx.designer.cs">
+      <DependentUpon>son_paymanager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_MemCardExpendRecord_View.aspx.cs">
+      <DependentUpon>System_MemCardExpendRecord_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_MemCardExpendRecord_View.aspx.designer.cs">
+      <DependentUpon>System_MemCardExpendRecord_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_News_Edit.aspx.cs">
+      <DependentUpon>System_News_Edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_News_Edit.aspx.designer.cs">
+      <DependentUpon>System_News_Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_News_View.aspx.cs">
+      <DependentUpon>System_News_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_News_View.aspx.designer.cs">
+      <DependentUpon>System_News_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_QuestionFB_Edit.aspx.cs">
+      <DependentUpon>System_QuestionFB_Edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_QuestionFB_Edit.aspx.designer.cs">
+      <DependentUpon>System_QuestionFB_Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_QuestionFB_Reply.aspx.cs">
+      <DependentUpon>System_QuestionFB_Reply.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_QuestionFB_Reply.aspx.designer.cs">
+      <DependentUpon>System_QuestionFB_Reply.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_QuestionFB_View.aspx.cs">
+      <DependentUpon>System_QuestionFB_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_QuestionFB_View.aspx.designer.cs">
+      <DependentUpon>System_QuestionFB_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_RecordOperate_View.aspx.cs">
+      <DependentUpon>System_RecordOperate_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_RecordOperate_View.aspx.designer.cs">
+      <DependentUpon>System_RecordOperate_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_SMSLog_View.aspx.cs">
+      <DependentUpon>System_SMSLog_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_SMSLog_View.aspx.designer.cs">
+      <DependentUpon>System_SMSLog_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_SMSTemplate_Edit.aspx.cs">
+      <DependentUpon>System_SMSTemplate_Edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_SMSTemplate_Edit.aspx.designer.cs">
+      <DependentUpon>System_SMSTemplate_Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_SMSTemplate_View.aspx.cs">
+      <DependentUpon>System_SMSTemplate_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_SMSTemplate_View.aspx.designer.cs">
+      <DependentUpon>System_SMSTemplate_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_SMS_GetLast.aspx.cs">
+      <DependentUpon>System_SMS_GetLast.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_SMS_GetLast.aspx.designer.cs">
+      <DependentUpon>System_SMS_GetLast.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_SMS_SendByNumber.aspx.cs">
+      <DependentUpon>System_SMS_SendByNumber.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_SMS_SendByNumber.aspx.designer.cs">
+      <DependentUpon>System_SMS_SendByNumber.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_SMS_SendBySystem.aspx.cs">
+      <DependentUpon>System_SMS_SendBySystem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_SMS_SendBySystem.aspx.designer.cs">
+      <DependentUpon>System_SMS_SendBySystem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\Sys_EditPassward.aspx.cs">
+      <DependentUpon>Sys_EditPassward.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\Sys_EditPassward.aspx.designer.cs">
+      <DependentUpon>Sys_EditPassward.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\son_log.aspx.cs">
+      <DependentUpon>son_log.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\son_log.aspx.designer.cs">
+      <DependentUpon>son_log.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_DataBackup_Backup.aspx.cs">
+      <DependentUpon>System_DataBackup_Backup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_DataBackup_Backup.aspx.designer.cs">
+      <DependentUpon>System_DataBackup_Backup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_DataBackup_Restore.aspx.cs">
+      <DependentUpon>System_DataBackup_Restore.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_DataBackup_Restore.aspx.designer.cs">
+      <DependentUpon>System_DataBackup_Restore.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_GroupAuthorization_Edit.aspx.cs">
+      <DependentUpon>System_GroupAuthorization_Edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_GroupAuthorization_Edit.aspx.designer.cs">
+      <DependentUpon>System_GroupAuthorization_Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_GroupAuthorization_Index.aspx.cs">
+      <DependentUpon>System_GroupAuthorization_Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_GroupAuthorization_Index.aspx.designer.cs">
+      <DependentUpon>System_GroupAuthorization_Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_UserAuthorization_Admin.aspx.cs">
+      <DependentUpon>System_UserAuthorization_Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_UserAuthorization_Admin.aspx.designer.cs">
+      <DependentUpon>System_UserAuthorization_Admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\program\System_UserAuthorization_Index.aspx.cs">
+      <DependentUpon>System_UserAuthorization_Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\program\System_UserAuthorization_Index.aspx.designer.cs">
+      <DependentUpon>System_UserAuthorization_Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\son_backup.aspx.cs">
+      <DependentUpon>son_backup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\son_backup.aspx.designer.cs">
+      <DependentUpon>son_backup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\son_sms.aspx.cs">
+      <DependentUpon>son_sms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\son_sms.aspx.designer.cs">
+      <DependentUpon>son_sms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_system\son_user.aspx.cs">
+      <DependentUpon>son_user.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_system\son_user.aspx.designer.cs">
+      <DependentUpon>son_user.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_tongji\program\Tongji_AgentMonth_View.aspx.cs">
+      <DependentUpon>Tongji_AgentMonth_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_tongji\program\Tongji_AgentMonth_View.aspx.designer.cs">
+      <DependentUpon>Tongji_AgentMonth_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_tongji\program\Tongji_MemMonth_View.aspx.cs">
+      <DependentUpon>Tongji_MemMonth_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_tongji\program\Tongji_MemMonth_View.aspx.designer.cs">
+      <DependentUpon>Tongji_MemMonth_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_tongji\program\Tongji_Mem_View.aspx.cs">
+      <DependentUpon>Tongji_Mem_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_tongji\program\Tongji_Mem_View.aspx.designer.cs">
+      <DependentUpon>Tongji_Mem_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_tongji\son_TongjiUser.aspx.cs">
+      <DependentUpon>son_TongjiUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_tongji\son_TongjiUser.aspx.designer.cs">
+      <DependentUpon>son_TongjiUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_membermanager\program\MemManager_Edit.aspx.cs">
+      <DependentUpon>MemManager_Edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_membermanager\program\MemManager_Edit.aspx.designer.cs">
+      <DependentUpon>MemManager_Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_membermanager\program\MemManager_View.aspx.cs">
+      <DependentUpon>MemManager_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_membermanager\program\MemManager_View.aspx.designer.cs">
+      <DependentUpon>MemManager_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main_membermanager\son_usermanager.aspx.cs">
+      <DependentUpon>son_usermanager.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main_membermanager\son_usermanager.aspx.designer.cs">
+      <DependentUpon>son_usermanager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="sysfile\mobilenum\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DBUtil\DBUtil.csproj">
+      <Project>{BD94C86B-B627-48DD-8FEE-D4CA17DEE0BF}</Project>
+      <Name>DBUtil</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMSAgent\SMSAgent.csproj">
+      <Project>{36DB1D86-4678-49A6-A0FB-23C8ABD3E60F}</Project>
+      <Name>SMSAgent</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UtilLib\UtilLib.csproj">
+      <Project>{16BB4F17-7BD3-4E58-9526-8F01769CC44B}</Project>
+      <Name>UtilLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sysfile\dbbak\HYM_20120906_173019.BAK" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2871</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

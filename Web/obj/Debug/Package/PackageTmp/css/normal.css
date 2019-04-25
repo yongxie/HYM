@@ -1,0 +1,85 @@
+/* CSS Document */
+body {
+	font-size:12px;
+	margin:0px;
+}
+table {font-size:12px;}
+
+
+/* ±³¾°*/
+.titbar_bg1 {background-image:url(../images/index/titbar_bg1.gif);background-repeat:repeat-x}
+.titbar_bg2 {background-image:url(../images/index/titbar_bg2.gif);background-repeat:repeat-x}
+
+
+.a9px {
+	FONT-SIZE: 9pt; WORD-SPACING: 0.5em; LINE-HEIGHT: 100%; FONT-STYLE: normal; LETTER-SPACING: 0em;
+}
+A.b1:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.b1:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.b1:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.b1:hover {
+	COLOR: #000000; text-deroration: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none; font-size:12px
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none;font-size:12px
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none;font-size:12px
+}
+A:hover {
+	COLOR: #ff6600; text-deroration: none;font-size:12px
+}
+.a10px {
+	FONT-SIZE: 10.4pt; LINE-HEIGHT: 180%
+}
+.rec_form {
+	BORDER-RIGHT: #666666 1px dashed; BORDER-TOP: #666666 1px dashed; FONT-SIZE: 9pt; BORDER-LEFT: #666666 1px dashed; BORDER-BOTTOM: #666666 1px dashed; align: absmiddle
+}
+TABLE {
+	FONT-SIZE: 9pt
+}
+.stbtm {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: buttonface 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: buttonface 1px solid; WIDTH: 65px; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #efefef
+}
+.stedit {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.text {
+	FONT-FAMILY: ËÎÌå; TEXT-DECORATION: none
+}
+.selectOff {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; OVERFLOW: hidden; BORDER-LEFT: #000000 1px solid; CURSOR: default; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: transparent
+}
+.selectOn {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; FONT-SIZE: 12px; Z-INDEX: 1; LEFT: -1000px; VISIBILITY: hidden; OVERFLOW: hidden; BORDER-LEFT: 1px solid; WIDTH: 0px; CURSOR: default; BORDER-BOTTOM: 1px solid; FONT-FAMILY: ËÎÌå,Helvetica,Arial,Sans-Serif; POSITION: absolute; TOP: -1000px; BACKGROUND-COLOR: #f0f0f0
+}
+.selectItem {
+	FONT-SIZE: 12px; WIDTH: 100%; LINE-HEIGHT: 16px
+}
+.edbox {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: transparent
+}
+.edline {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 12px; BORDER-LEFT: medium none; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: transparent
+}
+.ednone {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 12px; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; BACKGROUND-COLOR: #d4e4d8
+}
+.edboxdisable {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #aaaaaa 1px solid; COLOR: #555555; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: transparent
+}
+.edlinedisable {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 12px; BORDER-LEFT: medium none; COLOR: #555555; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: transparent
+}
+.ednonedisable {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 12px; BORDER-LEFT: medium none; COLOR: #777777; BORDER-BOTTOM: medium none; BACKGROUND-COLOR: transparent
+}

@@ -1,0 +1,63 @@
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\UtilLib\bin\Debug\UtilLib.dll
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\UtilLib\bin\Debug\UtilLib.pdb
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\UtilLib\bin\Debug\DBUtil.dll
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\UtilLib\bin\Debug\DBUtil.pdb
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\UtilLib\obj\Debug\ResolveAssemblyReference.cache
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\UtilLib\obj\Debug\UtilLib.dll
+F:\工作文件\会员管理系统项目\唐山朕桦商贸会员管理\HYM\UtilLib\obj\Debug\UtilLib.pdb
+F:\项目\HYM\UtilLib\bin\Debug\UtilLib.dll
+F:\项目\HYM\UtilLib\bin\Debug\UtilLib.pdb
+F:\项目\HYM\UtilLib\bin\Debug\DBUtil.dll
+F:\项目\HYM\UtilLib\bin\Debug\DBUtil.pdb
+F:\项目\HYM\UtilLib\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\HYM\UtilLib\obj\Debug\UtilLib.dll
+F:\项目\HYM\UtilLib\obj\Debug\UtilLib.pdb
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Debug\UtilLib.dll
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Debug\UtilLib.pdb
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Debug\DBUtil.dll
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Debug\DBUtil.pdb
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\obj\Debug\ResolveAssemblyReference.cache
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\obj\Debug\UtilLib.dll
+E:\YunIO\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\obj\Debug\UtilLib.pdb
+F:\工作文件\会员管理系统项目\HYManager\HYM\UtilLib\bin\Debug\UtilLib.dll
+F:\工作文件\会员管理系统项目\HYManager\HYM\UtilLib\bin\Debug\UtilLib.pdb
+F:\工作文件\会员管理系统项目\HYManager\HYM\UtilLib\bin\Debug\DBUtil.dll
+F:\工作文件\会员管理系统项目\HYManager\HYM\UtilLib\bin\Debug\DBUtil.pdb
+F:\工作文件\会员管理系统项目\HYManager\HYM\UtilLib\obj\Debug\ResolveAssemblyReference.cache
+F:\工作文件\会员管理系统项目\HYManager\HYM\UtilLib\obj\Debug\UtilLib.dll
+F:\工作文件\会员管理系统项目\HYManager\HYM\UtilLib\obj\Debug\UtilLib.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\bin\Debug\UtilLib.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\bin\Debug\UtilLib.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\bin\Debug\DBUtil.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\bin\Debug\DBUtil.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\obj\Debug\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\obj\Debug\UtilLib.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\UtilLib\obj\Debug\UtilLib.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Debug\UtilLib.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Debug\UtilLib.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Debug\DBUtil.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\bin\Debug\DBUtil.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\obj\Debug\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\obj\Debug\UtilLib.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\UtilLib\obj\Debug\UtilLib.pdb
+C:\Documents and Settings\Administrator\桌面\HYM\UtilLib\bin\Debug\UtilLib.dll
+C:\Documents and Settings\Administrator\桌面\HYM\UtilLib\bin\Debug\UtilLib.pdb
+C:\Documents and Settings\Administrator\桌面\HYM\UtilLib\bin\Debug\DBUtil.dll
+C:\Documents and Settings\Administrator\桌面\HYM\UtilLib\bin\Debug\DBUtil.pdb
+C:\Documents and Settings\Administrator\桌面\HYM\UtilLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\HYM\UtilLib\obj\Debug\UtilLib.dll
+C:\Documents and Settings\Administrator\桌面\HYM\UtilLib\obj\Debug\UtilLib.pdb
+E:\会员系统\会员管理源码\HYM\UtilLib\bin\Debug\UtilLib.dll
+E:\会员系统\会员管理源码\HYM\UtilLib\bin\Debug\UtilLib.pdb
+E:\会员系统\会员管理源码\HYM\UtilLib\bin\Debug\DBUtil.dll
+E:\会员系统\会员管理源码\HYM\UtilLib\bin\Debug\DBUtil.pdb
+E:\会员系统\会员管理源码\HYM\UtilLib\obj\Debug\ResolveAssemblyReference.cache
+E:\会员系统\会员管理源码\HYM\UtilLib\obj\Debug\UtilLib.dll
+E:\会员系统\会员管理源码\HYM\UtilLib\obj\Debug\UtilLib.pdb
+D:\新建文件夹\HYM\UtilLib\bin\Debug\UtilLib.dll
+D:\新建文件夹\HYM\UtilLib\bin\Debug\UtilLib.pdb
+D:\新建文件夹\HYM\UtilLib\bin\Debug\DBUtil.dll
+D:\新建文件夹\HYM\UtilLib\bin\Debug\DBUtil.pdb
+D:\新建文件夹\HYM\UtilLib\obj\Debug\UtilLib.csprojResolveAssemblyReference.cache
+D:\新建文件夹\HYM\UtilLib\obj\Debug\UtilLib.dll
+D:\新建文件夹\HYM\UtilLib\obj\Debug\UtilLib.pdb
